@@ -1,0 +1,78 @@
+html,body
+{
+    height: 100%;
+}
+
+/* cover */
+#cover
+{
+    background: #222 url('../img/galaxy.jpg') no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+/* first header section  */
+.display-10
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* cover caption */
+#cover-caption
+{
+    width: 100%;
+}
+
+/* image caption */
+img
+{
+    max-width: 100%;
+}
+/* code for card button */
+#cb1
+{
+    box-align: center;
+}
+
+.section-content
+{
+    padding: 5rem 0;
+}
+
+#about
+{
+    background: url('../img/deb1.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.about-text
+{
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 25px;
+}
+
+#btn
+{
+    align-content: center;
+}
+
+#what-we-do
+{
+    background: url('../img/camera.jpg');
+}
+
+.jumbotron
+{
+    background-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: black;
+}
+
+.navbar
+{
+    min-height: 10px;
+}
